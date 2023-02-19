@@ -10,7 +10,7 @@ function Form() {
                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="10" placeholder='Cosa vuoi dirmi?'></textarea>
             </div>
             <div className='mb-3'>
-                <button className='btn btn-primary'>Inviami un'email!</button>
+                <button id='buttonmail' className='btn btn-primary'>Inviami un'email!</button>
             </div>
         </>
     )

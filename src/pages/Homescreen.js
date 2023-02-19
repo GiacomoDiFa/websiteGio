@@ -17,9 +17,9 @@ function Homescreen() {
                     <div className='row no-gutters vh-100'>
                         <div className='col-lg-6 col-12 px-0 pb-5'>
                             <div className='container h-75 d-flex flex-column justify-content-center align-items-center mt-5'>
-                                <h3 >Dottoressa</h3>
-                                <h1 >Giorgia Traversi</h1>
-                                <h3 >Logopedista</h3>
+                                <h3 className='fontgloock' >Dottoressa</h3>
+                                <h1 className='fontminerve'>Giorgia Traversi</h1>
+                                <h3 className='fontgloock'>Logopedista</h3>
                             </div>
                         </div>
                         <div className='col-lg-6 col-12 h-100 px-0'>
@@ -35,7 +35,7 @@ function Homescreen() {
     data-aos-duration="1000">
                         <div className='col-lg-6 col-12'data-aos="fade-right"data-aos-delay="100"
     data-aos-duration="1000">
-                            <h1>Condizioni di cui mi occupo</h1>
+                            <h1 className='fontminerve'>Ambiti in cui intervengo</h1>
                         </div>
                         <div className='col-lg-6 col-12 pt-3 pt-lg-0'data-aos="fade-right"data-aos-delay="100"
     data-aos-duration="1000">
@@ -67,7 +67,7 @@ function Homescreen() {
                 <div className='row'>
                     <div className='col-lg-6 col-12'data-aos="fade-right"data-aos-delay="100"
     data-aos-duration="1000">
-                        <h1>I miei servizi</h1>
+                        <h1 className='fontminerve'>I miei servizi</h1>
                     </div>
                     <div className='col-lg-6 col-12 pt-3 pt-lg-0'data-aos="fade-right"data-aos-delay="100"
     data-aos-duration="1000">
@@ -93,7 +93,7 @@ function Homescreen() {
                 <div className='container pt-5'data-aos="fade-right"data-aos-delay="100"
     data-aos-duration="1000">
                     <div className='row'>
-                        <h1>I miei contatti</h1>
+                        <h1 className='fontminerve'>I miei contatti</h1>
                     </div>
                 </div>
                 <div className='container'data-aos="fade-right"data-aos-delay="100"

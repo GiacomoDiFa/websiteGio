@@ -44,3 +44,25 @@
 .card-image:hover .card-image-body{
     right: 0;
 }
+body{
+    background-color: #f4bbd3;
+}
+.fontminerve{
+    font-family: 'Mynerve', cursive;
+    font-size: 50px;
+}
+.fontgloock{
+    font-family: 'Gloock', serif;
+    font-size: 40px;
+}
+.btn{
+    background-color: #FE5D9F;
+    border: #FE5D9F;
+    height: 50px;
+    width: 175px;
+    font-size: 30px;
+    font-family: 'Gloock', serif;
+}
+#buttonmail{
+    width: 275px;
+}
