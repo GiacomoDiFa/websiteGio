@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/websiteGio/static/css/main.765b3d30.css",
-    "main.js": "/websiteGio/static/js/main.39676b65.js",
+    "main.js": "/websiteGio/static/js/main.22aa0b4b.js",
     "static/js/787.a663bc8e.chunk.js": "/websiteGio/static/js/787.a663bc8e.chunk.js",
     "static/media/firmato.pdf": "/websiteGio/static/media/firmato.d1514c0372d672810b7a.pdf",
     "static/media/giorgia.jpg": "/websiteGio/static/media/giorgia.c6d7527fb4359e751815.jpg",
     "static/media/logo.svg": "/websiteGio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/websiteGio/index.html",
     "main.765b3d30.css.map": "/websiteGio/static/css/main.765b3d30.css.map",
-    "main.39676b65.js.map": "/websiteGio/static/js/main.39676b65.js.map",
+    "main.22aa0b4b.js.map": "/websiteGio/static/js/main.22aa0b4b.js.map",
     "787.a663bc8e.chunk.js.map": "/websiteGio/static/js/787.a663bc8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.765b3d30.css",
-    "static/js/main.39676b65.js"
+    "static/js/main.22aa0b4b.js"
   ]
 }
