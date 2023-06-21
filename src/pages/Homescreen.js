@@ -42,7 +42,9 @@ function Homescreen() {
                         </div>
                         <div className='col-lg-6 col-12 pt-3 pt-lg-0' data-aos="fade-right" data-aos-delay="100"
                             data-aos-duration="1000">
-                            <a href={pdffile} target="_blank"><button className='btn btn-primary float-lg-end float-xs-start'>Contattami</button></a>
+                            <div className='container'>
+                                <a href={pdffile} target="_blank"><button className='btn btn-primary float-lg-end float-xs-start'>Contattami</button></a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -106,23 +108,27 @@ function Homescreen() {
                 <div className='container' data-aos="fade-right" data-aos-delay="100"
                     data-aos-duration="1000">
                     <div className='row'>
-                        <div className='col-lg-6 col-12' data-aos="fade-right" data-aos-delay="100"
-                            data-aos-duration="1000">
-                            <p className='mb-0 mt-3'>I miei studi:</p>
-                            <p className='fs-2 pt-0 mt-0'>Rimini (RN), Morciano di Romagna (RN), Montecalvo in Foglia (PU)</p>
-                            <hr></hr>
-                            <p className='mb-0'>Ricevo anche:</p>
-                            <p className='fs-2'>On-line</p>
-                            <hr></hr>
-                            <p className='mb-0'>Il mio indirizzo email:</p>
-                            <p className='fs-2'>giorgia.traversi@gmail.com</p>
-                            <hr></hr>
-                            <p className='mb-0'>Seguimi sui social:</p>
-                            <p>Icona insta, Icona fb</p>
+                        <div className='container'>
+                            <div className='col-lg-6 col-12' data-aos="fade-right" data-aos-delay="100"
+                                data-aos-duration="1000">
+                                <p className='mb-0 mt-3'>I miei studi:</p>
+                                <p className='fs-2 pt-0 mt-0'>Rimini (RN), Morciano di Romagna (RN), Montecalvo in Foglia (PU)</p>
+                                <hr></hr>
+                                <p className='mb-0'>Ricevo anche:</p>
+                                <p className='fs-2'>On-line</p>
+                                <hr></hr>
+                                <p className='mb-0'>Il mio indirizzo email:</p>
+                                <p className='fs-2'>giorgia.traversi@gmail.com</p>
+                                <hr></hr>
+                                <p className='mb-0'>Seguimi sui social:</p>
+                                <p>Icona insta, Icona fb</p>
+                            </div>
                         </div>
-                        <div className='col-lg-6 col-12' data-aos="fade-right" data-aos-delay="100"
-                            data-aos-duration="1000">
-                            <Form />
+                        <div className='container'>
+                            <div className='col-lg-6 col-12' data-aos="fade-right" data-aos-delay="100"
+                                data-aos-duration="1000">
+                                <Form />
+                            </div>
                         </div>
                     </div>
                 </div>

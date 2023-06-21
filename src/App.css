@@ -55,6 +55,10 @@ body{
     font-family: 'Gloock', serif;
     font-size: 40px;
 }
+.fontgloocknavbar{
+    font-family: 'Gloock',serif;
+    font-size: 25px;
+}
 .btn{
     background-color: #FE5D9F;
     border: #FE5D9F;
