@@ -62,9 +62,6 @@ body{
 .btn{
     background-color: #FE5D9F;
     border: #FE5D9F;
-    height: 50px;
-    width: 175px;
-    font-size: 30px;
     font-family: 'Gloock', serif;
 }
 #buttonmail{
